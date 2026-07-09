@@ -1,0 +1,106 @@
+body{
+    width: 100%;
+}
+.main-top-bottom{
+    background-color: white;
+    width: 400px;
+    height: 850px;
+    border: 5px solid brown;
+    border-right: none;
+    border-left: none;
+    
+}
+.main-frame{
+    background-color: white;
+    width: 350px;
+    height: 850px;
+    border: 5px solid brown;
+    margin-left: 20px;
+    position: relative;
+    border-bottom: none;
+    border-top: none;
+    
+}
+.main-space1,.main-space2,.main-space3,.main-space4,.main-space5,.main-space6,.main-space7,.main-space8,.main-space9,.main-space10{
+    background-color: white;
+    width: 100%;
+    height: 74px;
+    border: 5px solid rgb(184, 62, 62);
+    border-width: 0px 0px 5px 0px;
+    position: relative;
+}
+.main-space10{
+    border-width: 0px 0px 5px 0px;
+}
+.circles1,.circles2,.circles3{
+    background-color: white;
+    width: 53px;
+    height: 64px;
+    border: 5px solid rgb(184, 62, 62);
+    border-radius: 50%;
+}
+.circles1{
+    
+    position: absolute;
+    left: 43px;
+}
+.circles2{
+    position: absolute;
+    left: 136px;
+}
+.circles3{
+    position: absolute;
+    left: 232px;
+}
+.rod1{
+    width: 43px;
+    height: 5px;
+    background-color: rgb(184, 62, 62);
+    top: 30px;
+    position: absolute;
+}
+.rod2{
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    top: 26px;
+    left: 58px;
+    position: absolute;
+}
+.rod3{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    top: 26px;
+    left: 57px;
+    position: absolute;
+}
+.rod4{
+     width: 57px;
+    height: 5px;
+    background-color: black;
+    top: 26px;
+    left: 57px;
+    position: absolute;
+}
+.bar1{
+    width: 5px;
+    height: 74px;
+    background-color: black;
+    position: absolute;
+    left: 71px;
+}
+.bar-inside1{
+    width: 5px;
+    height: 74px;
+    background-color: black;
+    position: absolute;
+    left: 93px;
+}
+.bar-inside2{
+    width: 5px;
+    height: 74px;
+    background-color: black;
+    position: absolute;
+    left: 96px;
+}
